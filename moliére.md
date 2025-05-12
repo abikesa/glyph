@@ -8,10 +8,17 @@ Would you like a visual comparison between a classic hieroglyphic sentence and o
 
 ---
 
-![](./hiero-light.png)
-![](./hiero-dark.png)
-![](./ukubona.png)
-![](./recursion.png)
+
+  <div class="grid">
+    <img src="./hiero-l.png" alt="Hieroglyphic Left">
+    <img src="./hiero-d.png" alt="Hieroglyphic Down">
+    <img src="./ukubona.png" alt="Ukubona">
+    <img src="./recursion.png" alt="Recursion">
+  </div>
+
+
+
+
 
 Absolutely! Let's delve into the fascinating world of hieroglyphs and their modern counterparts.
 
